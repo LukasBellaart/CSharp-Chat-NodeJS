@@ -1,0 +1,15 @@
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\obj\Debug\Elysium Chat.csproj.AssemblyReference.cache
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\obj\Debug\Elysium_Chat.Form1.resources
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\obj\Debug\Elysium_Chat.Properties.Resources.resources
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\obj\Debug\Elysium Chat.csproj.GenerateResource.cache
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\obj\Debug\Elysium Chat.csproj.CoreCompileInputs.cache
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\bin\Debug\Elysium Chat.exe.config
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\bin\Debug\Elysium Chat.exe
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\bin\Debug\Elysium Chat.pdb
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\bin\Debug\websocket-sharp.dll
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\bin\Debug\websocket-sharp.xml
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\obj\Debug\Elysium Chat.csproj.CopyComplete
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\obj\Debug\Elysium Chat.exe
+C:\Users\Lukie\OneDrive\Bureaublad\ELysium chat\Elysium Chat\Elysium Chat\obj\Debug\Elysium Chat.pdb
